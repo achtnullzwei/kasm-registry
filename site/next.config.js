@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Achtnullzwei Kasm Registry',
     description: 'Personal Kasm Registry for Achtnullzwei.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/achtnullzwei/kasm-registry/',
+    listUrl: 'https://achtnullzwei.github.io/kasm-registry/',
     contactUrl: 'https://github.com/achtnullzwei/kasm-registry/issues',
   },
   reactStrictMode: true,
