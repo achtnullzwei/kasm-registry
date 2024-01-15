@@ -2,7 +2,7 @@
     "description": "Bambu Studio Slicer.",
     "docker_registry": "ghcr.io",
     "name": "dckr.achtnullzwei.net/kasm-bambustudio:latest",
-    "image_src": "OrcaSlicer.png",
+    "image_src": "BambuStudio.png",
     "categories": [
       "Productivity"
     ],
