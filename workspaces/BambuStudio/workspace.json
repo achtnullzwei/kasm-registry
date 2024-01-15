@@ -1,0 +1,18 @@
+{
+    "description": "Bambu Studio Slicer.",
+    "docker_registry": "ghcr.io",
+    "name": "dckr.achtnullzwei.net/kasm-bambustudio:latest",
+    "image_src": "OrcaSlicer.png",
+    "categories": [
+      "Productivity"
+    ],
+    "friendly_name": "Bambu Studio",
+    "architecture": [
+      "amd64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 3450
+  }
